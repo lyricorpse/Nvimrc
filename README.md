@@ -1,2 +1,3 @@
 # Nvimrc
-Config for NeoVim
+
+This is my config for NeoVim.
