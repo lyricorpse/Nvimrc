@@ -1,0 +1,2 @@
+# Nvimrc
+Config for NeoVim
